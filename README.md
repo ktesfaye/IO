@@ -1,5 +1,3 @@
-# CS220 Homework 7 & 8 - Part 1 & Part 2
-
 Write different functions that answer the respective questions.
 
 ### Part 1
