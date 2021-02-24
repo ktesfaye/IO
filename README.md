@@ -1,5 +1,3 @@
-Write different functions that answer the respective questions.
-
 ### Part 1
 
 For this part, solve two different questions. The first one is implementing mastermind game and the second one is currency denomination.
