@@ -1,7 +1,3 @@
-### Part 1
-
-For this part, solve two different questions. The first one is implementing mastermind game and the second one is currency denomination.
-
 ## #1 Mastermind game
 Mastermind is a board game for two players, in which one player (the codemaster) creates a
 secret code of 4 colored pegs, and the other player (the code breaker) must guess the pegs. In
@@ -57,8 +53,6 @@ In order to optimize this, check and compare with more permutation and return th
 
 A problem I ran into was trying to solve for the hard special cases. But It was like 1 in the morning and I couldn't think so I didn't fix that.
 
-### Part 2
-This part also has 2 problems to solve.
 
 ## getListOfInts
 Write a function getListOfInts​ that allows the user to input integers. The function
